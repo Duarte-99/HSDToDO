@@ -39,7 +39,7 @@ class Task:
 def printMenu():
     print("")
     print("************************")
-    print("* EDtodo               *")
+    print("* ToDo Manuel          *")
     print("************************")
     print("Seleccione una opcion")
     print("1 Agregar tarea")
