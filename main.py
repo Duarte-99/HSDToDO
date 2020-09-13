@@ -11,9 +11,8 @@ def clear():
     else:
         _ = system('clear')
 
-    # Menu actions
 
-
+# Menu actions
 add = 1
 edit = 2
 done = 3
